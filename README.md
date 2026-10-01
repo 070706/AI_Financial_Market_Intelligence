@@ -1,3 +1,24 @@
+# AI Financial Market Intelligence
+
+An AI-powered financial market intelligence system that combines Apache Spark, Neo4j, Graph Neural Networks (GNN), PyTorch Geometric, and Power BI for stock-market analysis and direction prediction.
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![PySpark](https://img.shields.io/badge/PySpark-4.2.0-orange)
+![Neo4j](https://img.shields.io/badge/Neo4j-GraphDatabase-green)
+![PyTorch](https://img.shields.io/badge/PyTorch-GNN-red)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+
+## Project Highlights
+
+- Large-scale stock-market data processing using Apache Spark
+- Financial correlation graph built using Neo4j
+- Graph Neural Network using PyTorch Geometric
+- Enhanced financial features for stock-direction prediction
+- Chronological train, validation, and test split
+- Power BI dashboard for prediction analysis
+- Automated Python syntax checking using GitHub Actions
+
+---
 # AI-Powered Financial Market Intelligence Using Graph Neural Networks and Big Data
 
 ## Project Overview
