@@ -86,3 +86,37 @@ Evaluation
 Prediction CSV
           ↓
 Power BI Dashboard 
+## GNN Results
+
+### Enhanced GNN Test Performance
+
+| Metric | Result |
+|---|---:|
+| Test Accuracy | 50.86% |
+| Precision | 0.5165 |
+| Recall | 0.7700 |
+| F1 Score | 0.6183 |
+
+### Confusion Matrix
+
+| | Predicted DOWN | Predicted UP |
+|---|---:|---:|
+| Actual DOWN | 2,836 | 9,550 |
+| Actual UP | 3,048 | 10,202 |
+
+### Validation Performance
+
+Best validation accuracy:
+
+**52.73%**
+
+The model uses a GraphSAGE architecture with enhanced financial features including:
+
+- Volume
+- Current Return
+- Volatility
+- Momentum
+- Moving Average
+- Volume Change
+
+> **Disclaimer:** Model predictions are experimental and are not guaranteed financial outcomes or investment advice.
