@@ -85,4 +85,13 @@ Evaluation
           ↓
 Prediction CSV
           ↓
-Power BI Dashboard
+Power BI Dashboard 
+
+Save and close Notepad.
+
+### Then run
+
+```powershell
+git add README.md
+git commit -m "Document project structure"
+git push
