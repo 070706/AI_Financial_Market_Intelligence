@@ -27,6 +27,9 @@ An AI-powered financial market intelligence system that combines Apache Spark, N
 This project builds an AI-powered financial market intelligence system using Big Data processing, financial correlation graphs, Graph Neural Networks, Neo4j, Apache Spark, PyTorch Geometric, and Power BI.
 
 The system processes historical S&P 500 stock data, calculates stock returns, identifies relationships between companies, constructs a financial graph, trains a Graph Neural Network, predicts next-day stock direction, and visualizes the results using Power BI.
+## Dashboard Preview
+
+![AI Financial Market Intelligence Dashboard](dashboard/dashboard.png)
 
 ## Technologies Used
 
